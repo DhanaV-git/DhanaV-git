@@ -6,7 +6,7 @@
 
 ![Dhana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhanaV-git&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanaV-git&theme=radical)](https://github.com/DhanaV-git/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/by-file-size/?username=DhanaV-git&theme=radical)](https://github.com/DhanaV-git/github-readme-stats)
 
 
 
