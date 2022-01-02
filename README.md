@@ -5,6 +5,8 @@
 - 📫 Reach me via email: dhanalakshmi.vnvudl@gmail.com
 - 🚀 <a href="https://dhanav-git.github.io" target="_blank">** About Me!! ** </a>
 
+---
+
 ### Languages, Tools & Technologies:
 
 
@@ -26,6 +28,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][resources]
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][resources]
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][resources]<br />
+<br />
+<br />
+
+---
 
 ![Dhana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhanaV-git&show_icons=true&theme=radical)
 
