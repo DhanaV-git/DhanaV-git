@@ -31,14 +31,15 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
----
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhanaV-git" alt="Dhana's streak stats"/>
-
 
 ---
 
 ![Dhana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhanaV-git&show_icons=true&theme=radical)
+
+---
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhanaV-git" alt="Dhana's streak stats"/>
 
 ---
 
@@ -51,7 +52,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [instagram]: https://www.linkedin.com/in/dhana-veeramachaneni/
 [linkedin]: https://www.instagram.com/dhana_veeramachaneni/
 <!---
-DhanaV-git/DhanaV-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-Updated on Dec 22
+Its my repo
 --->
