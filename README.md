@@ -33,14 +33,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ---
 
-### Connect with me:
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhanaV-git" alt="Dhana's streak stats"/>
 
-[<img align="left" width="40px" alt="codeSTACKr | Twitter" width="22px" src="Icons\iconmonstr-github-1.svg" />][GitHub]
-[<img align="left" width="40px" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/linkedin-logo.svg" />][linkedin]
-[<img align="left" width="40px" alt="codeSTACKr | Instagram" width="22px" src="Icons/instagram.svg" />][instagram]
-
-<br/>
-<br />
 
 ---
 
