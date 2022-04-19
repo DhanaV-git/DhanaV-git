@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhana Veeramachaneni
-- 👀 I’m interested in Web Developmement, Full Stack, Cyber Security
+- 👀 I’m interested in DevOps, Web Developmement, Full Stack, Cyber Security
 - 🌱 I’m currently learning AWS, Mulesoft
-- 💞️ I’m looking to collaborate on AWS, Machine Learning with Python, R
+- 💞️ I’m looking to collaborate on DevOps, AWS, Machine Learning with Python, R
 - 📫 Reach me via email: dhanalakshmi.vnvudl@gmail.com
 - 🚀 <a href="https://dhanav-git.github.io" target="_blank">** About Me!! ** </a>
 
